@@ -11,7 +11,7 @@ Noch schlauere Sprüche
 1. Abendstund hat Bier im Mund
 
 
-[x] t
-[x]o
-[] d
-[] o
+- [x] t
+- [x]o
+- [ ] d
+- [ ] o
