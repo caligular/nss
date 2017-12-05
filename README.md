@@ -1,10 +1,10 @@
-Noch Schlauere Sprüche
+Noch Schlauere SprÃ¼che
 ========
 
 
-Der frühe Wurm wird vom Vogel gefangen
+Der frÃ¼he Wurm wird vom Vogel gefangen
 
 
-Was du kannst auf morgen verschieben, das lass liegen
+Was auf morgen kannst verschieben, das lass liegen
 
 
