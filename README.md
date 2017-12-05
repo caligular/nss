@@ -12,6 +12,6 @@ Noch schlauere Sprüche
 
 
 - [x] t
-- [x]o
+- [x] o
 - [ ] d
 - [ ] o
